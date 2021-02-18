@@ -1,1 +1,1 @@
-<h1 align="center"><img src="./assets/Music.gif" width="30px"> Advanced Discord Music Bot <img src="./assets/Music.gif" width="30px"></h1>
+<h1 align="center"><img src="https://github.com/rexgamer945/Valkyrie-Music/blob/main/assets/valky.png" width="30px"> Hello welcome to ValyrieBot <img src="https://github.com/rexgamer945/Valkyrie-Music/blob/main/assets/valky.png" width="30px"></h1>

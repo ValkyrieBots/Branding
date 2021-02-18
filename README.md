@@ -1,2 +1,1 @@
-# Branding
-Branding
+<h1 align="center"><img src="./assets/Music.gif" width="30px"> Advanced Discord Music Bot <img src="./assets/Music.gif" width="30px"></h1>
